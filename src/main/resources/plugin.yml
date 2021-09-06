@@ -1,0 +1,23 @@
+name: Gusen
+version: 1.0-dev
+main: com.wagusen.gusen.Gusen
+api-version: 1.17
+softdepend: [WorldEdit]
+commands:
+  test:
+  dice:
+  testdice:
+  야투:
+  재생:
+  로또번호:
+  lotto!:
+  /outline:
+    aliases: [/ol, /reol, /reoutline, /fristline ]
+  /theother:
+    aliases: [/to, /reto, /otherline, /secondline]
+  /clear:
+  /clear2:
+  showau:
+  showsans:
+  boom:
+  paint:
